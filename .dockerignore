@@ -1,0 +1,6 @@
+.venv
+neon_env
+neon311
+__pycache__
+.vscode
+*.pyc

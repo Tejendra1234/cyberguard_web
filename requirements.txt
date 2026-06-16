@@ -1,0 +1,4 @@
+gradio
+cryptography
+matplotlib
+requests
